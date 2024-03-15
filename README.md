@@ -7,10 +7,12 @@ Welcome to our Number Guessing Game! Here's what you need to know:
 - **Gameplay**:
   - You'll submit your guesses, and we'll tell you if your guess is too high or too low.
   - If you guess the number correctly, we'll reveal the answer.
-- **Turns**: You'll have a limited number of turns to guess the number.
 - **Difficulty Levels**:
   - Easy Mode: You have 10 guesses.
   - Hard Mode: You have only 5 guesses.
-- **Challenge Yourself**: Can you guess the number within the given number of turns? Test your intuition and numerical skills in this exciting game of deduction and logic!
+
+Can you guess the number within the given number of turns? 
+
+Test your intuition and numerical skills in this exciting game of deduction and logic!
 
 Are you ready to take on the challenge and guess the mystery number? Let the guessing game begin!
